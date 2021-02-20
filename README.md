@@ -374,3 +374,10 @@ Student ID | Movie | Year of Release
 1945381 | Inside Out | 2015
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1835014|The Lion King 2|1998
+1835014|Mulan|2020
+1835014|The New Mutants|2020
+1835014| The Jungle Book | 1994
+1835014|The THree Musketeers|1993
+
+
